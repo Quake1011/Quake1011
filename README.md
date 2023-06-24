@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=Quake1011&color=blueviolet&style=plastic" />
+  </a>
+</p>
+
 <!--
 **Quake1011/Quake1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
