@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+QLD+Beginner&duration=2000&pause=1000&color=F77BAE&background=FF0C0C00&center=true&vCenter=true&multiline=true&size=21&repeat=false&random=false&width=1000&height=100&lines=Hi!+Glad+to+see+you+here.;My+name+is+Alexander+and+I+do+scripting+in+my+free+time+for+games+based+on+the+Source+engine.;+If+you+have+a+question+or+a+suggestion%2C+I+am+ready+to+listen+it.)](https://git.io/typing-svg)
-
 <p align="center">
     <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=Quake1011&show_icons=true&theme=synthwave&hide_border=true" /><img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quake1011&layout=compact&theme=synthwave&hide_border=true" />
     <img height=195 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Quake1011&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /><br><br>
