@@ -5,6 +5,49 @@
 </p>
 
 <p align="center">
+    <b>Languages</b><br>
+  <a href="https://vk.com/bgtroll">
+    <img src="https://skillicons.dev/icons?i=css,cs,lua,php,py,html&theme=light" />
+  </a>
+</p>
+<p align="center">
+    <b>Tools</b><br>
+  <a href="https://vk.com/bgtroll">
+    <img src="https://skillicons.dev/icons?i=pycharm,rider,vscode&theme=light" />
+  </a>
+</p>
+<p align="center">
+    <b>Trying</b><br>
+  <a href="https://vk.com/bgtroll">
+    <img src="https://skillicons.dev/icons?i=opencv,blender,cpp,cmake,dotnet,js,figma&theme=light" />
+  </a>
+</p>
+<p align="center">
+    <b>Platform</b><br>
+  <a href="https://vk.com/bgtroll">
+    <img src="https://skillicons.dev/icons?i=windows&theme=light" />
+  </a>
+</p>
+<p align="center">
+    <b>GameEngine</b><br>
+  <a href="https://vk.com/bgtroll">
+    <img src="https://skillicons.dev/icons?i=unity&theme=light" />
+  </a>
+</p>
+<p align="center">
+    <b>RDBMS</b><br>
+  <a href="https://vk.com/bgtroll">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" />
+  </a>
+</p>
+<p align="center">
+    <b>DREAM</b><br>
+  <a href="https://vk.com/bgtroll">
+    <span size=50>Find my love :heart:</span>
+  </a>
+</p>
+
+<p align="center">
     <a href="https://steamcommunity.com/id/comecamecame/" target="_blank"><img src="https://img.shields.io/badge/Steam-%230077B5.svg?&style=flat-square&logo=Steam&logoColor=white" alt="Steam"></a>
     <a href="https://t.me/ArrayListX" target="_blank"><img src="https://img.shields.io/badge/Telegram-%232ca5e0.svg?&style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"></a>
     <a href="https://vk.com/bgtroll" target="_blank"><img src="https://img.shields.io/badge/VK-%231877F2.svg?&style=flat-square&logo=VK&logoColor=white" alt="VK"></a>
