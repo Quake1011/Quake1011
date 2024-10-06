@@ -44,6 +44,9 @@
     <a href="https://code.visualstudio.com/" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=vscode&theme=light" />
     </a>
+    <a href="https://www.jetbrains.com/pycharm/" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=docker&theme=light" />
+    </a>
 </p>
 
 <p align="center">
